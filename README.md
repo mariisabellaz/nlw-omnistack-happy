@@ -1,13 +1,9 @@
 
 <p align="center">
-  <h1>"Happy"</h1>
+  <h1>Happy</h1>
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
